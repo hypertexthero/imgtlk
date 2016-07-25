@@ -2,6 +2,8 @@
 Application prototype to have a conversation using images
 
 ## Things To Do
+* Most Valuable Product: 
+  * Upload a photo and send an email to a friend inviting them to post a photo in response
 * Single-page interface prototype
   * Use [Masonry](https://github.com/desandro/masonry)
 * One paper first
