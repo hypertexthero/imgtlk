@@ -4,7 +4,7 @@ Application prototype to have a conversation using images
 ## Things To Do
 * Most Valuable Product: 
   * Upload a photo and send an email to a friend inviting them to post a photo in response
-   * How to post an image with Node
+   * How to post an image with [Node.js](http://www.slideshare.net/simon/evented-io-based-web-servers-explained-using-bunnies)
    * How to send an email with Node
    * How to create a random URL with Node (need to think about [URLs](http://warpspire.com/posts/url-design/)
 * Single-page interface prototype
