@@ -1,7 +1,7 @@
 # imgtlk
 Application prototype to have a conversation using images
 
-<img src="imgtlkprototype.png" alt="Initial paper prototype.">
+<img src="imgtlkprototype.jpg" alt="Initial paper prototype.">
 
 ## Things To Do
 * Publish brief overview with signup for [Mailchimp](http://mailchimp.com/) mailinglist form on Google App Engine to test interest.
