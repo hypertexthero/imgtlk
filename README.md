@@ -1,9 +1,10 @@
 # imgtlk
 Application prototype to have a conversation using images
 
+<img src="imgtlkprototype.png" alt="Initial paper prototype.">
+
 ## Things To Do
 * Publish brief overview with signup for [Mailchimp](http://mailchimp.com/) mailinglist form on Google App Engine to test interest.
-
 * Most Valuable Product: 
   * Upload a photo and send an email to a friend inviting them to post a photo in response
    * How to post an image with [Node.js](http://www.slideshare.net/simon/evented-io-based-web-servers-explained-using-bunnies). [What is Node.js](https://stackoverflow.com/questions/1884724/what-is-node-js)?
@@ -27,15 +28,11 @@ Application prototype to have a conversation using images
         * ¿What is the default image maximum width? **500px**? **1080px**?
       * **/beautiful-mongoose-34/edit/** Should a person be able to edit their image once it has been posted? Or only delete it? Probably only delete it — image would be replaced with 'image was deleted'.
       * **/signout/** - Thanks for tlking! See you again soon. imgtlk homepage.     
-
 * Single-page interface prototype
   * Use [Masonry](https://github.com/desandro/masonry)? Maybe later. No unecessary JS to keep things fast and simple.
-
 * One page
   * Upload image
   * Send email to friend you want to tlk to
   * Signup and login flows (use <https://github.com/sahat/hackathon-starter>?). Google, Facebook, Twitter, GitHub to sign in.
-
 * Implement friendship database schema - NoSQL [GAE Datastore](https://cloud.google.com/datastore/). Needed? Eventually ability to follow others?
-
 * See [nodejs GAE quickstart](https://cloud.google.com/nodejs/). Use [Express framework](http://expressjs.com/en/guide/routing.html).
