@@ -35,4 +35,8 @@ Application prototype to have a conversation using images
   * Send email to friend you want to tlk to
   * Signup and login flows (use <https://github.com/sahat/hackathon-starter>?). Google, Facebook, Twitter, GitHub to sign in.
 * Implement friendship database schema - NoSQL [GAE Datastore](https://cloud.google.com/datastore/). Needed? Eventually ability to follow others?
-* See [nodejs GAE quickstart](https://cloud.google.com/nodejs/). Use [Express framework](http://expressjs.com/en/guide/routing.html).
+* Deployment
+  * See [nodejs GAE quickstart](https://cloud.google.com/nodejs/) (is it a good idea to use GAE? Backward incompatible changes can happen in current state). Use [Express framework](http://expressjs.com/en/guide/routing.html).
+  * Local development server: ` dev_appserver.py .`
+  * Deploy: `appcfg.py update .`
+  * For future, explore [GitHub's webhooks](https://developer.github.com/webhooks/) for push-to-master-branch style deployment.
