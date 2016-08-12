@@ -1,7 +1,11 @@
 # imgtlk
-Application prototype to have a conversation using images
+Application prototype to have a conversation using images by [Simon](http://simongriffee.com) &amp; [Sam](http://samtabibzadeh.com).
 
 <img src="imgtlkprototype.jpg" alt="Initial paper prototype.">
+
+* Time limit for motivation to respond to initial poster's img
+* Karma? For responding within time-limit?
+* After 10 karma points, badge for profile?
 
 ## Things To Do
 * Publish brief overview with signup for [Mailchimp](http://mailchimp.com/) mailinglist form on Google App Engine to test interest.
